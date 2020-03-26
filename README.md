@@ -14,7 +14,7 @@
 
 A big collection of plymouth themes, ported from *android bootanimation* from [here](https://forum.xda-developers.com/android/themes/alienware-t3721978).
 
-![gif](previews/4.gif)
+![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/4.gif)
 
 ### What is plymouth?
 
@@ -28,7 +28,7 @@ follow [this](https://wiki.archlinux.org/index.php/plymouth) *archwiki* article 
 
 **Download :** you can download individual themes via link below -
 <p align="center">
-  <a href="link"><img alt="undefined" src="https://img.shields.io/badge/Download-Here-orange?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/adi1090x/files/tree/master/plymouth-themes/themes"><img alt="undefined" src="https://img.shields.io/badge/Download-Here-orange?style=for-the-badge&logo=github"></a>
 </p>
 
 **Clone :** or you can clone this repository if you want - 
@@ -61,121 +61,121 @@ sudo ./showplymouth.sh 20
 <details><summary>Abstract</summary>
 <p>
 
-![img](previews/1.gif)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/1.gif)
 
 </details>
 <details><summary>Abstract alt</summary>
 <p>
 
-![img](previews/2.gif)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/2.gif)
 
 </details>
 <details><summary>Alienware</summary>
 <p>
 
-![img](previews/3.gif)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/3.gif)
 
 </details>
 <details><summary>Angular</summary>
 <p>
 
-![img](previews/4.gif)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/4.gif)
 
 </details>
 <details><summary>Angular Alt</summary>
 <p>
 
-![img](previews/5.gif)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/5.gif)
 
 </details>
 <details><summary>Black HUD</summary>
 <p>
 
-![img](previews/6.gif)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/6.gif)
 
 </details>
 <details><summary>Blockchain</summary>
 <p>
 
-![img](previews/7.gif)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/7.gif)
 
 </details>
 <details><summary>Circle</summary>
 <p>
 
-![img](previews/8.gif)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/8.gif)
 
 </details>
 <details><summary>Circle Alt</summary>
 <p>
 
-![img](previews/9.gif)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/9.gif)
 
 </details>
 <details><summary>Circle Flow</summary>
 <p>
 
-![img](previews/10.gif)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/10.gif)
 
 </details>
 <details><summary>Circle HUD</summary>
 <p>
 
-![img](previews/11.gif)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/11.gif)
 
 </details>
 <details><summary>Circuit</summary>
 <p>
 
-![img](previews/12.gif)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/12.gif)
 
 </details>
 <details><summary>Colorful</summary>
 <p>
 
-![img](previews/13.gif)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/13.gif)
 
 </details>
 <details><summary>Colorful Loop</summary>
 <p>
 
-![img](previews/14.gif)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/14.gif)
 
 </details>
 <details><summary>Colorful Sliced</summary>
 <p>
 
-![img](previews/15.gif)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/15.gif)
 
 </details>
 <details><summary>Connect</summary>
 <p>
 
-![img](previews/16.gif)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/16.gif)
 
 </details>
 <details><summary>Cross HUD</summary>
 <p>
 
-![img](previews/17.gif)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/17.gif)
 
 </details>
 <details><summary>Cubes</summary>
 <p>
 
-![img](previews/18.gif)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/18.gif)
 
 </details>
 <details><summary>Cuts</summary>
 <p>
 
-![img](previews/19.gif)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/19.gif)
 
 </details>
 <details><summary>Cuts Alt</summary>
 <p>
 
-![img](previews/20.gif)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/20.gif)
 
 </details>
 
