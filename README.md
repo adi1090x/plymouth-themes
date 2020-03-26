@@ -62,6 +62,7 @@ Colorful Loop|Connect
 ![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/14.gif)|![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/16.gif)
 
 > *Open in new tab with fullscreen mode for better view*
+
 :computer:|:computer:|:computer:|:computer:|:computer: 
 --|--|--|--|-- 
 [Abstract Rings](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/1.gif) | [Abstract Rings Alt](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/2.gif) | [Alienware](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/3.gif) | [Angular](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/4.gif) | [Angular Alt](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/5.gif)
