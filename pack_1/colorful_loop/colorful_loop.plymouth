@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=colorful_loop
+Description=display a beautiful colorful loop
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/colorful_loop
+ScriptFile=/usr/share/plymouth/themes/colorful_loop/colorful_loop.script

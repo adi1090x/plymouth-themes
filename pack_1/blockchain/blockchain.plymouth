@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=blockchain
+Description=display blockchain animation
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/blockchain
+ScriptFile=/usr/share/plymouth/themes/blockchain/blockchain.script

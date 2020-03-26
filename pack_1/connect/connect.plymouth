@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=connect
+Description=display connecting dots animation
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/connect
+ScriptFile=/usr/share/plymouth/themes/connect/connect.script

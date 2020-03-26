@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=circle_flow
+Description=display colorful concentric circles flow
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/circle_flow
+ScriptFile=/usr/share/plymouth/themes/circle_flow/circle_flow.script

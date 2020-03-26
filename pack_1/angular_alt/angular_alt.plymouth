@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=angular_alt
+Description=display kinda fireworks, alternate
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/angular_alt
+ScriptFile=/usr/share/plymouth/themes/angular_alt/angular_alt.script

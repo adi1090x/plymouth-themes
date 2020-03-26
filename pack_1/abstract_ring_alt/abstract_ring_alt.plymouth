@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=abstract_ring_alt
+Description=display another abstract ring
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/abstract_ring_alt
+ScriptFile=/usr/share/plymouth/themes/abstract_ring_alt/abstract_ring_alt.script

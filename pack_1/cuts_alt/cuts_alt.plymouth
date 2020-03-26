@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=cuts_alt
+Description=display ninja style cuts
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/cuts_alt
+ScriptFile=/usr/share/plymouth/themes/cuts_alt/cuts_alt.script

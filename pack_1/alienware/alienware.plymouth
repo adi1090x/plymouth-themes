@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=alienware
+Description=display alienware logo
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/alienware
+ScriptFile=/usr/share/plymouth/themes/alienware/alienware.script

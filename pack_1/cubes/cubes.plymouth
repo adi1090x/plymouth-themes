@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=cubes
+Description=display cubes floating in a sphere
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/cubes
+ScriptFile=/usr/share/plymouth/themes/cubes/cubes.script

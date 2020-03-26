@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=black_hud
+Description=display a black animated hud
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/black_hud
+ScriptFile=/usr/share/plymouth/themes/black_hud/black_hud.script
