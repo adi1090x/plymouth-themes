@@ -1,9 +1,3 @@
----
-title: plymouth-themes
-created: '2020-03-26T07:26:48.387Z'
-modified: '2020-03-26T09:50:14.757Z'
----
-
 # plymouth-themes
 
 <p align="left">
