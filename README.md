@@ -56,128 +56,31 @@ sudo ./showplymouth.sh 20
 
 <!----------------------------- Pack 1 ----------------------------->
 <details><summary>Click to view</summary>
-<h3>Pack 1</h3>
 
-<details><summary>Abstract</summary>
-<p>
+<h4>Pack 1</h4>
 
-![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/1.gif)
+![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/14.gif)
 
-</details>
-<details><summary>Abstract alt</summary>
-<p>
-
-![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/2.gif)
-
-</details>
-<details><summary>Alienware</summary>
-<p>
-
-![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/3.gif)
-
-</details>
-<details><summary>Angular</summary>
-<p>
-
-![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/4.gif)
-
-</details>
-<details><summary>Angular Alt</summary>
-<p>
-
-![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/5.gif)
-
-</details>
-<details><summary>Black HUD</summary>
-<p>
-
-![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/6.gif)
-
-</details>
-<details><summary>Blockchain</summary>
-<p>
-
-![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/7.gif)
-
-</details>
-<details><summary>Circle</summary>
-<p>
-
-![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/8.gif)
-
-</details>
-<details><summary>Circle Alt</summary>
-<p>
-
-![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/9.gif)
-
-</details>
-<details><summary>Circle Flow</summary>
-<p>
-
-![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/10.gif)
-
-</details>
-<details><summary>Circle HUD</summary>
-<p>
-
-![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/11.gif)
-
-</details>
-<details><summary>Circuit</summary>
-<p>
-
-![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/12.gif)
-
-</details>
-<details><summary>Colorful</summary>
-<p>
-
-![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/13.gif)
-
-</details>
-<details><summary>Colorful Loop</summary>
-<p>
-
-![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/14.gif)
-
-</details>
-<details><summary>Colorful Sliced</summary>
-<p>
-
-![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/15.gif)
-
-</details>
-<details><summary>Connect</summary>
-<p>
-
-![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/16.gif)
-
-</details>
-<details><summary>Cross HUD</summary>
-<p>
-
-![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/17.gif)
-
-</details>
-<details><summary>Cubes</summary>
-<p>
-
-![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/18.gif)
-
-</details>
-<details><summary>Cuts</summary>
-<p>
-
-![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/19.gif)
-
-</details>
-<details><summary>Cuts Alt</summary>
-<p>
-
-![img](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/20.gif)
-
-</details>
++ [Abstract Rings](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/1.gif)
++ [Abstract Rings Alt](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/2.gif)
++ [Alienware](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/3.gif)
++ [Angular](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/4.gif)
++ [Angular Alt](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/5.gif)
++ [Black HUD](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/6.gif)
++ [Blockchain](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/7.gif)
++ [Circle](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/8.gif)
++ [Circle Alt](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/9.gif)
++ [Circle Flow](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/10.gif)
++ [Circle HUD](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/11.gif)
++ [Circuit](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/12.gif)
++ [Colorful](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/13.gif)
++ [Colorful Loop](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/14.gif)
++ [Colorful Sliced](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/15.gif)
++ [Connect](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/16.gif)
++ [Cross HUD](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/17.gif)
++ [Cubes](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/18.gif)
++ [Cuts](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/19.gif)
++ [Cuts Alt](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/20.gif)
 
 </details>
 
