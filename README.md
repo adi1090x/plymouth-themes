@@ -59,8 +59,12 @@ sudo ./showplymouth.sh 20
 
 <h4>Pack 1</h4>
 
-![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/14.gif)
+Colorful Loop|Connect
+--|--
+![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/14.gif)|![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/16.gif)
 
+
+> *Open in New Tab*
 + [Abstract Rings](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/1.gif)
 + [Abstract Rings Alt](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/2.gif)
 + [Alienware](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/3.gif)
