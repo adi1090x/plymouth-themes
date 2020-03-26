@@ -55,16 +55,13 @@ sudo ./showplymouth.sh 20
 ### Previews
 
 <!----------------------------- Pack 1 ----------------------------->
-<details><summary>Click to view</summary>
-
-<h4>Pack 1</h4>
+<details><summary>Pack 1</summary>
 
 Colorful Loop|Connect
 --|--
 ![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/14.gif)|![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/16.gif)
 
-
-> *Open in New Tab*
+> *Open in new tab with fullscreen mode for better view*
 + [Abstract Rings](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/1.gif)
 + [Abstract Rings Alt](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/2.gif)
 + [Alienware](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/3.gif)
@@ -93,3 +90,8 @@ Colorful Loop|Connect
 <a href="https://www.paypal.me/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/paypal-adi1090x-blue?style=for-the-badge&logo=paypal"></a> <a href="https://www.buymeacoffee.com/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/BuyMeAcoffee-adi1090x-orange?style=for-the-badge&logo=buy-me-a-coffee"></a>  
 </p>
 
+### FYI
++ Working on 60 more themes, will update soon.
++ Created and tested on machine with 1366x768 resolution.
++ Yeah, that's how *quarantine* going on :D
++ Stay Home, Stay Safe, Fight CORONA.
