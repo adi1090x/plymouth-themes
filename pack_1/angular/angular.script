@@ -12,8 +12,8 @@ for (i = 0; i < 30; i++)
 flyingman_sprite = Sprite();
 
 # set image position
-flyingman_sprite.SetX(Window.GetWidth() / 2 - flyingman_image[0].GetWidth() / 2); # Place images in the center
-flyingman_sprite.SetY(Window.GetHeight() / 2 - flyingman_image[0].GetHeight() / 2);
+flyingman_sprite.SetX(Window.GetX() + (Window.GetWidth() / 2 - flyingman_image[0].GetWidth() / 2)); # Place images in the center
+flyingman_sprite.SetY(Window.GetY() + (Window.GetHeight() / 2 - flyingman_image[0].GetHeight() / 2));
 
 progress = 0;
 
@@ -22,5 +22,5 @@ fun refresh_callback ()
     flyingman_sprite.SetImage(flyingman_image[Math.Int(progress / 2) % 30]);
     progress++;
   }
-  
+
 Plymouth.SetRefreshFunction (refresh_callback);
