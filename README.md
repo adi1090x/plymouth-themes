@@ -41,6 +41,8 @@ git clone https://github.com/adi1090x/plymouth-themes.git
 
 follow the step below (I'm using **archlinux** here)- 
 ```bash
+# packages needed - plymouth, plymouth-x11, plymouth-plugin-script(fedora)
+
 # after downloading or cloning themes, copy the selected theme in plymouth theme dir
 sudo cp -r angular /usr/share/plymouth/themes/
 
