@@ -57,6 +57,8 @@ sudo ./showplymouth.sh 20
 ```
 ### Previews
 
+Here is an [Album](https://www.buymeacoffee.com/p/44845).
+
 <!----------------------------- Pack 1 ----------------------------->
 <details><summary>Pack 1</summary>
 
