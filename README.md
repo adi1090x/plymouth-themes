@@ -27,7 +27,7 @@ follow [this](https://wiki.archlinux.org/index.php/plymouth) *archwiki* article 
 
 ### How to get these theme?
 
-**Download :** you can download individual themes via link below -
+**Download :** you can download individual themes via link below ***(NEED UPDATE)***-
 <p align="center">
   <a href="https://github.com/adi1090x/files/tree/master/plymouth-themes/themes"><img alt="undefined" src="https://img.shields.io/badge/Download-Here-orange?style=for-the-badge&logo=github"></a>
 </p>
