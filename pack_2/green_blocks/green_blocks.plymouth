@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=green_blocks
+Description=display cube made with green blocks
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/green_blocks
+ScriptFile=/usr/share/plymouth/themes/green_blocks/green_blocks.script

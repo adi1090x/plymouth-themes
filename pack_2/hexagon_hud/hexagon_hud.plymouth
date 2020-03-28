@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=hexagon_hud
+Description=display hexagon hud
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/hexagon_hud
+ScriptFile=/usr/share/plymouth/themes/hexagon_hud/hexagon_hud.script

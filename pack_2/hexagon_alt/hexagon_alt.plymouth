@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=hexagon_alt
+Description=display alternate hexagon
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/hexagon_alt
+ScriptFile=/usr/share/plymouth/themes/hexagon_alt/hexagon_alt.script

@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=hexagon_dots_alt
+Description=display hexagon dots alternate
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/hexagon_dots_alt
+ScriptFile=/usr/share/plymouth/themes/hexagon_dots_alt/hexagon_dots_alt.script

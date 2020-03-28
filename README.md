@@ -15,7 +15,7 @@
 
 A big collection of plymouth themes, ported from *android bootanimation* from [here](https://forum.xda-developers.com/android/themes/alienware-t3721978).
 
-![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/4.gif)
+![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/32.gif)
 
 ### What is plymouth?
 
@@ -89,6 +89,38 @@ Colorful Loop|Connect
 
 </details>
 
+<!----------------------------- Pack 2 ----------------------------->
+<details><summary>Pack 2</summary>
+
+Deus Ex|Hexagon Dots
+--|--
+![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/25.gif)|![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/37.gif)
+
+> *Open in new tab with fullscreen mode for better view*
+
++ [Cyanide](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/21.gif)
++ [Cybernetic](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/22.gif)
++ [Dark Planet](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/23.gif)
++ [Darth Vader](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/24.gif)
++ [Deus Ex](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/25.gif)
++ [DNA](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/26.gif)
++ [Double](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/27.gif)
++ [Dragon](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/28.gif)
++ [Flame](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/29.gif)
++ [Glitch](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/30.gif)
++ [Glow](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/31.gif)
++ [Green Blocks](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/32.gif)
++ [Green Loader](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/33.gif)
++ [Hexagon](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/34.gif)
++ [Hexagon 2](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/35.gif)
++ [Hexagon Alt](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/36.gif)
++ [Hexagon Dots](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/37.gif)
++ [Hexagon Dots Alt](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/38.gif)
++ [Hexagon HUD](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/39.gif)
++ [Hexagon RED](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/40.gif)
+
+</details>
+
 ### Support Me
 <p align="left">
 <a href="https://www.paypal.me/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/paypal-adi1090x-blue?style=for-the-badge&logo=paypal"></a>
@@ -97,7 +129,8 @@ Colorful Loop|Connect
 </p>
 
 ### FYI
-+ Working on 60 more themes, will update soon.
++ Working on 40 more themes, will update soon.
 + Created and tested on machine with 1366x768 resolution.
++ Not tested on *encrypted* machines.
 + Yeah, that's how *quarantine* going on :grin:.
 + Stay Home - Stay Safe, Help Fighting CORONA.

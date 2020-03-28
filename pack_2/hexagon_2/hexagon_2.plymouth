@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=hexagon_2
+Description=display hexagon
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/hexagon_2
+ScriptFile=/usr/share/plymouth/themes/hexagon_2/hexagon_2.script

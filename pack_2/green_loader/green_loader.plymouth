@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=green_loader
+Description=display a green loading icon
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/green_loader
+ScriptFile=/usr/share/plymouth/themes/green_loader/green_loader.script

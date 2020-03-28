@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=flame
+Description=display blue flames
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/flame
+ScriptFile=/usr/share/plymouth/themes/flame/flame.script
