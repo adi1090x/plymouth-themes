@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=red_loader
+Description=display a red loading sphere
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/red_loader
+ScriptFile=/usr/share/plymouth/themes/red_loader/red_loader.script

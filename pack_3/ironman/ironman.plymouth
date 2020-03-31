@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=ironman
+Description=display iron man hud
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/ironman
+ScriptFile=/usr/share/plymouth/themes/ironman/ironman.script

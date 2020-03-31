@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=ibm
+Description=display ibm style startup
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/ibm
+ScriptFile=/usr/share/plymouth/themes/ibm/ibm.script

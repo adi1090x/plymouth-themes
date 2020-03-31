@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=loader_alt
+Description=display a loader
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/loader_alt
+ScriptFile=/usr/share/plymouth/themes/loader_alt/loader_alt.script

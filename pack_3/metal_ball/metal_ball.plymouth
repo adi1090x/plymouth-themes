@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=metal_ball
+Description=display an inside-out metal ball
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/metal_ball
+ScriptFile=/usr/share/plymouth/themes/metal_ball/metal_ball.script

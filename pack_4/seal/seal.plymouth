@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=seal
+Description=display seal
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/seal
+ScriptFile=/usr/share/plymouth/themes/seal/seal.script

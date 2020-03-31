@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=pixels
+Description=display floating pixel balls 
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/pixels
+ScriptFile=/usr/share/plymouth/themes/pixels/pixels.script

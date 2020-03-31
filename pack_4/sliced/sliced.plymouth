@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=sliced
+Description=display a sliced sphere
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/sliced
+ScriptFile=/usr/share/plymouth/themes/sliced/sliced.script

@@ -123,6 +123,70 @@ Deus Ex|Hexagon Dots
 
 </details>
 
+<!----------------------------- Pack 3 ----------------------------->
+<details><summary>Pack 3</summary>
+
+Lone|Pixels
+--|--
+![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/53.gif)|![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/59.gif)
+
+> *Open in new tab with fullscreen mode for better view*
+
++ [Hexa Retro](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/41.gif)
++ [Hud](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/42.gif)
++ [Hud 2](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/43.gif)
++ [Hud 3](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/44.gif)
++ [Hud Space](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/45.gif)
++ [IBM](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/46.gif)
++ [Infinite Seal](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/47.gif)
++ [Ironman](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/48.gif)
++ [Liquid](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/49.gif)
++ [Loader](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/50.gif)
++ [Loader 2](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/51.gif)
++ [Loader Alt](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/52.gif)
++ [Lone](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/53.gif)
++ [Metal Ball](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/54.gif)
++ [Motion](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/55.gif)
++ [Optimus](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/56.gif)
++ [Owl](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/57.gif)
++ [Pie](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/58.gif)
++ [Pixels](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/59.gif)
++ [Polaroid](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/60.gif)
+
+</details>
+
+<!----------------------------- Pack 4 ----------------------------->
+<details><summary>Pack 4</summary>
+
+Red Loader|Splash
+--|--
+![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/61.gif)|![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/70.gif)
+
+> *Open in new tab with fullscreen mode for better view*
+
++ [Red Loader](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/61.gif)
++ [Rings](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/62.gif)
++ [Rings 2](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/63.gif)
++ [Rog](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/64.gif)
++ [Rog 2](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/65.gif)
++ [Seal](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/66.gif)
++ [Seal 2](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/67.gif)
++ [Seal 3](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/68.gif)
++ [Sliced](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/69.gif)
++ [Sphere](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/70.gif)
++ [Spin](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/71.gif)
++ [Spinner Alt](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/72.gif)
++ [Splash](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/73.gif)
++ [Square](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/74.gif)
++ [Square Hud](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/75.gif)
++ [Target](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/76.gif)
++ [Target 2](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/77.gif)
++ [Tech A](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/78.gif)
++ [Tech B](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/79.gif)
++ [Unrap](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/80.gif)
+
+</details>
+
 ### Support This Project
 <p align="left">
 <a href="https://www.paypal.me/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/paypal-adi1090x-blue?style=for-the-badge&logo=paypal"></a>

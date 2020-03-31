@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=hexa_retro
+Description=display retro styled hexagons
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/hexa_retro
+ScriptFile=/usr/share/plymouth/themes/hexa_retro/hexa_retro.script

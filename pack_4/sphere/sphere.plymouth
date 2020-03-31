@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=sphere
+Description=display a colorful sphere
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/sphere
+ScriptFile=/usr/share/plymouth/themes/sphere/sphere.script

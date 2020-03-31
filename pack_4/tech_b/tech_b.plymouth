@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=tech_b
+Description=display alt tech rings
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/tech_b
+ScriptFile=/usr/share/plymouth/themes/tech_b/tech_b.script

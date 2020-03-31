@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=spin
+Description=display spinning circles
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/spin
+ScriptFile=/usr/share/plymouth/themes/spin/spin.script

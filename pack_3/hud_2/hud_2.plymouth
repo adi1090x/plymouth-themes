@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=hud_2
+Description=display sci-fi HUD
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/hud_2
+ScriptFile=/usr/share/plymouth/themes/hud_2/hud_2.script

@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=seal_3
+Description=display another seal animation
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/seal_3
+ScriptFile=/usr/share/plymouth/themes/seal_3/seal_3.script
