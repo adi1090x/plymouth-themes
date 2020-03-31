@@ -15,7 +15,7 @@
 
 A big collection of plymouth themes, ported from *android bootanimation* from [here](https://forum.xda-developers.com/android/themes/alienware-t3721978).
 
-![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/32.gif)
+![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/55.gif)
 
 ### What is plymouth?
 
@@ -160,7 +160,7 @@ Lone|Pixels
 
 Red Loader|Splash
 --|--
-![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/61.gif)|![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/70.gif)
+![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/61.gif)|![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/73.gif)
 
 > *Open in new tab with fullscreen mode for better view*
 
