@@ -15,7 +15,7 @@
 
 A big collection of plymouth themes, ported from *android bootanimation* from [here](https://forum.xda-developers.com/android/themes/alienware-t3721978).
 
-![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/55.gif)
+![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/53.gif)
 
 ### What is plymouth?
 
