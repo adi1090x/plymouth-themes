@@ -195,7 +195,6 @@ Red Loader|Splash
 </p>
 
 ### FYI
-+ Working on 40 more themes, will update soon.
 + Created and tested on machine with 1366x768 resolution.
 + Not tested on *encrypted* machines.
 + Yeah, that's how *quarantine* going on :grin:.
