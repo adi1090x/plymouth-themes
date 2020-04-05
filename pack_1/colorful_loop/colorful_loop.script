@@ -41,7 +41,7 @@ fun dialog_setup()
     
     box.sprite = Sprite(box.image);
     box.x = Window.GetX() + Window.GetWidth()  / 2 - box.image.GetWidth ()/2;
-    box.y = Window.GetY() + Window.GetHeight() / 2 - box.image.GetHeight()/2;
+    box.y = Window.GetY() + Window.GetHeight() / 1.3 - box.image.GetHeight()/2;
     box.z = 10000;
     box.sprite.SetPosition(box.x, box.y, box.z);
     
