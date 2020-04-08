@@ -37,6 +37,13 @@ follow [this](https://wiki.archlinux.org/index.php/plymouth) *archwiki* article 
 git clone https://github.com/adi1090x/plymouth-themes.git
 ```
 
+**AUR :** If you're `archlinux`, you can install these themes individually with an `AUR helper like yay`
+```bash
+yay -S plymouth-theme-NAME-git
+```
+> Remember to replace the underscore(\_) with an hyphen(-) in theme's NAME.
+
+
 ### How to use these theme?
 
 follow the step below (I'm using **archlinux** here)- 
