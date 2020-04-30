@@ -25,6 +25,9 @@ bullet.image = Image.Text("*", 1, 1, 1);
 state.status = "play";
 state.time = 0.0;
 
+// Animation
+animation_speed = 0.3;
+
 //--------------------------------- Animation states definition -----------------------
 
 // Init sprite from sample image
@@ -34,8 +37,9 @@ sprite.SetX(screen.half.w - sample_image.GetWidth() / 2);
 sprite.SetY(screen.half.h - sample_image.GetHeight() / 2);
 
 # return a hash of a range of images
-fun images_hash_from_range(start, end)
+fun images_hash_from_range(state_hash, start, end)
   {
+    state_hash.len = end - start;
     for (i = start; i <= end; i++)
       {
         index = i - start;
@@ -47,32 +51,51 @@ fun images_hash_from_range(start, end)
 # fade-in
 fadein.start  = 111;
 fadein.end    = 209;
-fadein.images = images_hash_from_range(fadeout.start, fadeout.end);
+fadein.images = images_hash_from_range(fadein, fadein.start, fadein.end);
 
 # progress-in
 progressin.start  = 0;
 progressin.end    = 24;
-progressin.images = images_hash_from_range(progressin.start, progressin.end);
+progressin.images = images_hash_from_range(progressin, progressin.start, progressin.end);
 
 # progress-out
 progressout.start  = 27;
 progressout.end    = 46;
-progressout.images = images_hash_from_range(progressout.start, progressout.end);
+progressout.images = images_hash_from_range(progressout, progressout.start, progressout.end);
 
 # fade-out
 fadeout.start  = 47;
 fadeout.end    = 110;
-fadeout.images = images_hash_from_range(fadeout.start, fadeout.end);
+fadeout.images = images_hash_from_range(fadeout, fadeout.start, fadeout.end);
 
-progress = 0;
+am_state = "fadein";
+fadein.counter = 0;
 
 fun refresh_callback ()
   {
-    progress = (progress + 1) % 24;
-    sprite.SetImage(progressin.images[progress]);
+    if (am_state == "fadein")
+      {
+        sprite.SetImage(fadein.images[Math.Int(fadein.counter * animation_speed)]);
+        if (fadein.counter++ * animation_speed >= fadein.len)
+          am_state = "progress";
+      }
   }
 
 Plymouth.SetRefreshFunction (refresh_callback);
+
+fun progress_callback (time, progress)
+  {
+    if (state.status != "pause" && am_state == "progress")
+      {
+        local.index = Math.Int(progress * progressin.len);
+        sprite.SetImage(progressin.images[local.index]);
+      }
+
+    MessageCallback("debug: " + progress * 100 + "%");
+
+  }
+
+Plymouth.SetBootProgressFunction (progress_callback);
 
 //------------------------------------- Password prompt -------------------------------
 fun DisplayQuestionCallback(prompt, entry) {
