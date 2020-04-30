@@ -203,6 +203,5 @@ Red Loader|Splash
 
 ### FYI
 + Created and tested on machine with 1366x768 resolution.
-+ Not tested on *encrypted* machines.
 + Yeah, that's how *quarantine* going on :grin:.
 + Stay Home - Stay Safe, Help Fighting CORONA.
