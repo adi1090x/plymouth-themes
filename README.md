@@ -46,7 +46,7 @@ yay -S plymouth-theme-NAME-git
 
 ### How to use these theme?
 
-follow the step below (I'm using **archlinux** here)- 
++ follow the step below (I'm using **archlinux** here)- 
 ```bash
 # packages needed - plymouth, plymouth-x11, plymouth-plugin-script(fedora)
 
@@ -62,6 +62,24 @@ sudo plymouth-set-default-theme -R angular
 # optionally you can test theme by running the script given in repo (plymouth-x11 required)
 sudo ./showplymouth.sh 20
 ```
++ For **debian**(Ubuntu, Kubuntu) based distros-
+```bash
+# make sure you have the packages for plymouth
+sudo apt install plymouth
+
+# after downloading or cloning themes, copy the selected theme in plymouth theme dir
+sudo cp -r angular /usr/share/plymouth/themes/
+
+# install the new theme (angular, in this case)
+sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/angular/angular.plymouth 100
+
+# select the theme to apply
+sudo update-alternatives --config default.plymouth
+#(select the number for installed theme, angular in this case)
+
+# update initramfs
+sudo update-initramfs -u
+``` 
 ### Previews
 
 Here is an [Album](https://www.buymeacoffee.com/p/44845).
