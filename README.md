@@ -1,19 +1,23 @@
-# plymouth-themes
+<h1 align="center">Plymouth Themes</h1>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-blueviolet?style=flat-square">
-  <img src="https://img.shields.io/github/license/adi1090x/plymouth-themes?style=flat-square">
-  <img src="https://img.shields.io/github/stars/adi1090x/plymouth-themes?color=red&style=flat-square">
-  <img src="https://img.shields.io/github/forks/adi1090x/plymouth-themes?style=flat-square">
-  <img src="https://img.shields.io/github/issues/adi1090x/plymouth-themes?style=flat-square">
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/adi1090x/plymouth-themes?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/adi1090x/plymouth-themes?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/adi1090x/plymouth-themes?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/adi1090x/plymouth-themes?color=violet&style=for-the-badge">
 </p>
 
-<p align="left">
-<a href="https://www.buymeacoffee.com/adi1090x"><img src="https://raw.githubusercontent.com/adi1090x/files/master/other/bmac.png" alt="Buy Me A Coffee"></a>
-<a href="https://ko-fi.com/adi1090x"><img src="https://raw.githubusercontent.com/adi1090x/files/master/other/kofi.png" alt="Support me on ko-fi"></a>
+<p align="center">
+<a href="https://www.buymeacoffee.com/adi1090x"><img src="https://raw.githubusercontent.com/adi1090x/files/master/other/1.png" alt="Buy Me A Coffee"></a>
+<a href="https://ko-fi.com/adi1090x"><img src="https://raw.githubusercontent.com/adi1090x/files/master/other/2.png" alt="Support me on ko-fi"></a>
+<a href="https://www.paypal.me/adi1090x"><img src="https://raw.githubusercontent.com/adi1090x/files/master/other/3.png" alt="Support me on Paypal"></a>
+<a href="https://www.patreon.com/adi1090x"><img src="https://raw.githubusercontent.com/adi1090x/files/master/other/4.png" alt="Support me on Patreon"></a>
 </p>
 
-A big collection of plymouth themes, ported from *android bootanimation* from [here](https://forum.xda-developers.com/android/themes/alienware-t3721978).
+<p align="center">
+A big collection of plymouth themes, ported from <i>android bootanimation</i> from <a href="https://forum.xda-developers.com/android/themes/alienware-t3721978">here.</a>
+</p>
 
 ![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/53.gif)
 
@@ -211,13 +215,6 @@ Red Loader|Splash
 + [Unrap](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/80.gif)
 
 </details>
-
-### Support This Project
-<p align="left">
-<a href="https://www.paypal.me/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/paypal-adi1090x-blue?style=for-the-badge&logo=paypal"></a>
-<a href="https://www.buymeacoffee.com/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/BuyMeAcoffee-adi1090x-orange?style=for-the-badge&logo=buy-me-a-coffee"></a>  
-<a href="https://ko-fi.com/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/KoFi-adi1090x-red?style=for-the-badge&logo=ko-fi"></a>  
-</p>
 
 ### FYI
 + Created and tested on machine with 1366x768 resolution.

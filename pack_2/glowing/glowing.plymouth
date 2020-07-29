@@ -1,9 +1,9 @@
 [Plymouth Theme]
-Name=glow
+Name=glowing
 Description=display a sci-fi glowing sphere
 Comment=created By Aditya Shakya (@adi1090x)
 ModuleName=script
 
 [script]
-ImageDir=/usr/share/plymouth/themes/glow
-ScriptFile=/usr/share/plymouth/themes/glow/glow.script
+ImageDir=/usr/share/plymouth/themes/glowing
+ScriptFile=/usr/share/plymouth/themes/glowing/glowing.script
