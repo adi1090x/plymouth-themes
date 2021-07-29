@@ -232,6 +232,10 @@ ubuntu_sprite.SetY(Window.GetHeight() - ubuntu_image.GetHeight() - 50); # displa
 
 You can display whatever image you want and even add more.
 
+The given example looks like the following when applied (`rog_2` theme used):
+
+![ubuntu-logo-preview](ubuntu-logo-preview.png)
+
 ### FYI
 + Created and tested on machine with 1366x768 resolution.
 + Yeah, that's how *quarantine* going on :grin:.
