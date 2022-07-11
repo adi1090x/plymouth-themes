@@ -40,6 +40,11 @@ yay -S plymouth-theme-NAME-git
 ```
 > Remember to replace the underscore(\_) with an hyphen(-) in theme's NAME.
 
+### Important for Arch users
+
+If you're using the AUR package [plymouth](https://aur.archlinux.org/packages/plymouth) or [plymouth-git](https://aur.archlinux.org/packages/plymouth-git), you need to ensure that [cantarell-fonts](https://archlinux.org/packages/extra/any/cantarell-fonts/) or [ttf-dejavu](https://archlinux.org/packages/community/any/ttf-dejavu/) is installed.
+Otherwise, the password prompt to unlock a dm-crypt device won't show up.
+
 
 ### How to use these theme?
 
