@@ -4,10 +4,10 @@
 ## Reddit : @adi1090x
 
 // Screen size
-screen.w = Window.GetWidth();
-screen.h = Window.GetHeight();
-screen.half.w = Window.GetWidth() / 2;
-screen.half.h = Window.GetHeight() / 2;
+screen.w = Window.GetWidth(0);
+screen.h = Window.GetHeight(0);
+screen.half.w = Window.GetWidth(0) / 2;
+screen.half.h = Window.GetHeight(0) / 2;
 
 // Question prompt
 question = null;
@@ -33,8 +33,8 @@ for (i = 0; i < 120; i++)
 flyingman_sprite = Sprite();
 
 # set image position
-flyingman_sprite.SetX(Window.GetX() + (Window.GetWidth() / 2 - flyingman_image[0].GetWidth() / 2)); # Place images in the center
-flyingman_sprite.SetY(Window.GetY() + (Window.GetHeight() / 2 - flyingman_image[0].GetHeight() / 2));
+flyingman_sprite.SetX(Window.GetX() + (Window.GetWidth(0) / 2 - flyingman_image[0].GetWidth() / 2)); # Place images in the center
+flyingman_sprite.SetY(Window.GetY() + (Window.GetHeight(0) / 2 - flyingman_image[0].GetHeight() / 2));
 
 progress = 0;
 
