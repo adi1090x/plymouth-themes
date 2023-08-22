@@ -24,17 +24,14 @@ follow [this](https://wiki.archlinux.org/index.php/plymouth) *archwiki* article 
 
 ### How to get these theme?
 
-**Download :** you can download individual themes via link below -
-<p align="center">
-  <a href="https://github.com/adi1090x/files/tree/master/plymouth-themes/themes"><img alt="undefined" src="https://img.shields.io/badge/Download-Here-orange?style=for-the-badge&logo=github"></a>
-</p>
+**Download :** you can download individual themes from releases.
 
 **Clone :** or you can clone this repository if you want - 
 ```bash
 git clone https://github.com/adi1090x/plymouth-themes.git
 ```
 
-**AUR :** If you're `archlinux`, you can install these [themes](https://aur.archlinux.org/packages/?O=0&K=adi1090x) individually with an `AUR helper like yay`
+**AUR :** If you're on `archlinux`, you can install these [themes](https://aur.archlinux.org/packages/?O=0&K=adi1090x) individually with an AUR helper like `yay`
 ```bash
 yay -S plymouth-theme-NAME-git
 ```
@@ -44,7 +41,6 @@ yay -S plymouth-theme-NAME-git
 
 If you're using the AUR package [plymouth](https://aur.archlinux.org/packages/plymouth) or [plymouth-git](https://aur.archlinux.org/packages/plymouth-git), you need to ensure that [cantarell-fonts](https://archlinux.org/packages/extra/any/cantarell-fonts/) or [ttf-dejavu](https://archlinux.org/packages/community/any/ttf-dejavu/) is installed.
 Otherwise, the password prompt to unlock a dm-crypt device won't show up.
-
 
 ### How to use these theme?
 
@@ -83,8 +79,6 @@ sudo update-alternatives --config default.plymouth
 sudo update-initramfs -u
 ``` 
 ### Previews
-
-Here is an [Album](https://www.buymeacoffee.com/p/44845).
 
 <!----------------------------- Pack 1 ----------------------------->
 <details><summary>Pack 1</summary>
@@ -229,9 +223,7 @@ ubuntu_sprite.SetY(Window.GetHeight() - ubuntu_image.GetHeight() - 50); # displa
 ```
 
 You can display whatever image you want and even add more.
-
 The given example looks like the following when applied (`rog_2` theme used):
-
 ![ubuntu-logo-preview](ubuntu-logo-preview.png)
 
 ### FYI
