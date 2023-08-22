@@ -24,7 +24,7 @@ follow [this](https://wiki.archlinux.org/index.php/plymouth) *archwiki* article 
 
 ### How to get these theme?
 
-**Download :** you can download individual themes from releases.
+**Download :** you can download individual themes from [releases](https://github.com/adi1090x/plymouth-themes/releases).
 
 **Clone :** or you can clone this repository if you want - 
 ```bash
@@ -223,7 +223,9 @@ ubuntu_sprite.SetY(Window.GetHeight() - ubuntu_image.GetHeight() - 50); # displa
 ```
 
 You can display whatever image you want and even add more.
+
 The given example looks like the following when applied (`rog_2` theme used):
+
 ![ubuntu-logo-preview](ubuntu-logo-preview.png)
 
 ### FYI
