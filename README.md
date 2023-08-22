@@ -209,6 +209,26 @@ Red Loader|Splash
 
 </details>
 
+### Display distro logo
+
+Copy the logo file to the theme folder (e.g. `/usr/share/plymouth/themes/colorful_loop`) and then add the following content to the theme's `.script` file (e.g. `/usr/share/plymouth/themes/colorful_loop/colorful_loop.script`):
+
+```
+# display ubuntu logo
+ubuntu_image = Image("ubuntu-logo.png"); # change filename accordingly
+ubuntu_sprite = Sprite();
+
+ubuntu_sprite.SetImage(ubuntu_image);
+ubuntu_sprite.SetX(Window.GetX() + (Window.GetWidth() / 2 - ubuntu_image.GetWidth() / 2)); # center the image horizontally
+ubuntu_sprite.SetY(Window.GetHeight() - ubuntu_image.GetHeight() - 50); # display just above the bottom of the screen
+```
+
+You can display whatever image you want and even add more.
+
+The given example looks like the following when applied (`rog_2` theme used):
+
+![ubuntu-logo-preview](ubuntu-logo-preview.png)
+
 ### FYI
 + Created and tested on machine with 1366x768 resolution.
 + Yeah, that's how *quarantine* going on :grin:.
