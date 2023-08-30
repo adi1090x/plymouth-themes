@@ -46,7 +46,10 @@ Otherwise, the password prompt to unlock a dm-crypt device won't show up.
 
 + follow the step below (I'm using **archlinux** here)- 
 ```bash
-# packages needed - plymouth, plymouth-x11, plymouth-plugin-script(fedora)
+# packages needed:
+archlinux:  plymouth
+debian:     plymouth-x11
+fedora:     plymouth-plugin-script
 
 # after downloading or cloning themes, copy the selected theme in plymouth theme dir
 sudo cp -r angular /usr/share/plymouth/themes/
